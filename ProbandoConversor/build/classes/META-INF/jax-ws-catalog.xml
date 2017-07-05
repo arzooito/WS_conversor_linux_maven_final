@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/conversor_WS/conversor?wsdl" uri="wsdl/localhost_8080/conversor_WS/conversor.wsdl"/>
+    <system systemId="http://localhost:8080/conversor_WS/conversor?xsd=1" uri="wsdl/localhost_8080/conversor_WS/conversor.xsd_1.xsd"/>
+    <system systemId="http://appolo.almerimatik.es:8080/WS_conversor_linux/conversor?wsdl" uri="wsdl/appolo.almerimatik.es_8080/WS_conversor_linux/conversor.wsdl"/>
+    <system systemId="http://appolo.almerimatik.es:8080/WS_conversor_linux/conversor?xsd=1" uri="wsdl/appolo.almerimatik.es_8080/WS_conversor_linux/conversor.xsd_1.xsd"/>
+    <system systemId="http://appolo.almerimatik.es:8080/WS_conversor_linux_maven/Conversor?wsdl" uri="wsdl/appolo.almerimatik.es_8080/WS_conversor_linux_maven/Conversor.wsdl"/>
+    <system systemId="http://appolo.almerimatik.es:8080/WS_conversor_linux_maven/Conversor?xsd=1" uri="wsdl/appolo.almerimatik.es_8080/WS_conversor_linux_maven/Conversor.xsd_1.xsd"/>
+</catalog>
